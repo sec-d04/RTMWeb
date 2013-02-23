@@ -1,13 +1,13 @@
-–Ê”’‚»‚¤‚Èproject‚ÍˆÈ‰º‚¾‚Æv‚¢‚Ü‚µ‚½B
+é¢ç™½ãã†ãªprojectã¯ä»¥ä¸‹ã ã¨æ€ã„ã¾ã—ãŸã€‚
 
-RTM‚ÌWebAPIƒCƒ“ƒ^[ƒtƒFƒCƒXÀ‘• ?
+RTMã®WebAPIã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ã‚¤ã‚¹å®Ÿè£… ?
 https://github.com/yosuke/OpenHRIWeb
 
-Arduino˜AŒg
+Arduinoé€£æº
 https://github.com/ysuga/RTno
 
-‘¼‚É‚àˆÈ‰º‚Ì‚æ‚¤‚Èproject‚ª‘¶İ‚µ‚Ü‚·B
-Porting + ƒ¿?
+ä»–ã«ã‚‚ä»¥ä¸‹ã®ã‚ˆã†ãªprojectãŒå­˜åœ¨ã—ã¾ã™ã€‚
+Porting + Î±?
 https://github.com/zoetrope/ReactiveRTM (.NET)
 https://github.com/gbiggs/rtctree-erl (Erlang)
 https://github.com/thomas-moulard/openrtm-aist-deb
