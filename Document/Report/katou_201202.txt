@@ -1,0 +1,16 @@
+面白そうなprojectは以下だと思いました。
+
+RTMのWebAPIインターフェイス実装 ?
+https://github.com/yosuke/OpenHRIWeb
+
+Arduino連携
+https://github.com/ysuga/RTno
+
+他にも以下のようなprojectが存在します。
+Porting + α?
+https://github.com/zoetrope/ReactiveRTM (.NET)
+https://github.com/gbiggs/rtctree-erl (Erlang)
+https://github.com/thomas-moulard/openrtm-aist-deb
+
+https://github.com/ysuga/FIROSOPHY
+https://github.com/ysuga/FIROSOPHYEngine
