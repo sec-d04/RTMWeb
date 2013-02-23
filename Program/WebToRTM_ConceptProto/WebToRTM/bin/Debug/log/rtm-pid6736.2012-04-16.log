@@ -1,0 +1,11 @@
+[logging start 2012-04-16 00:41:55,966]
+2012-04-16 00:41:57,114 [9] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2012-04-16 00:41:57,126 [9] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2012-04-16 00:41:57,126 [9] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2012-04-16 00:41:57,136 [9] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2012-04-16 00:41:57,137 [9] INFO  (Manager) コンポーネントRtcProjectTemplate1.RtcProjectTemplate1をロードしました
+2012-04-16 00:41:57,138 [9] INFO  (Manager) 実行コンテキストEmptyExecutionContextをロードしました
+2012-04-16 00:41:57,139 [9] INFO  (Manager) 実行コンテキストExtTrigExecutionContextをロードしました
+2012-04-16 00:41:57,139 [9] INFO  (Manager) 実行コンテキストPeriodicExecutionContextをロードしました
+2012-04-16 00:41:57,139 [9] INFO  (Manager) コンポーネントcomposite.PeriodicECShared.PeriodicECSharedCompositeをロードしました
+2012-04-16 00:41:57,146 [9] INFO  (Manager) 初期化が完了しました。

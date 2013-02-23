@@ -1,0 +1,6 @@
+[logging start 2012-04-16 01:41:34,038]
+2012-04-16 01:41:40,083 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:41:40,083 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:41:40,086 [14] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:41:40,087 [14] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:41:40,087 [14] DEBUG (HttpDaemon) Start of client data:

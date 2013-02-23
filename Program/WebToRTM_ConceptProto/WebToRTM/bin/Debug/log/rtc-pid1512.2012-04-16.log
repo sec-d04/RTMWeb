@@ -1,0 +1,14 @@
+[logging start 2012-04-16 01:42:49,362]
+2012-04-16 01:43:30,656 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:43:30,656 [13] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:43:30,719 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:43:30,719 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:43:33,474 [13] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:43:33,474 [13] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:43:33,477 [13] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:43:33,477 [13] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:43:33,477 [13] DEBUG (HttpDaemon) Start of client data:
+2012-04-16 01:43:33,477 [13] DEBUG (HttpDaemon) scroll=3
+2012-04-16 01:43:33,477 [13] DEBUG (HttpDaemon) End of client data:
+2012-04-16 01:43:33,478 [13] DEBUG (HttpDaemon) s=scroll=3
+2012-04-16 01:43:33,478 [13] DEBUG (HttpDaemon) Replaceed s=scroll=3

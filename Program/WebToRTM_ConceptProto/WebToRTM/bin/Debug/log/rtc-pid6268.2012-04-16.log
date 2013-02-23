@@ -1,0 +1,31 @@
+[logging start 2012-04-16 01:02:42,062]
+2012-04-16 01:03:14,389 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:14,389 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:03:15,845 [13] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:03:15,845 [13] DEBUG (HttpDaemon) /dummy.html
+2012-04-16 01:03:16,016 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:16,017 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:03:21,991 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:21,991 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:03:36,126 [13] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:03:36,126 [13] DEBUG (HttpDaemon) /dummy.html
+2012-04-16 01:03:36,208 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:36,208 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:03:38,740 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:38,740 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:03:39,971 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:39,971 [13] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:03:40,096 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:40,096 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:03:59,128 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:59,128 [13] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:03:59,205 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:03:59,206 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:04:10,208 [13] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:04:10,208 [13] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:04:10,300 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:04:10,300 [13] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:04:15,962 [13] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:04:15,963 [13] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:04:16,045 [13] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:04:16,045 [13] DEBUG (HttpDaemon) /favicon.ico

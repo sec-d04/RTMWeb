@@ -1,0 +1,82 @@
+[logging start 2012-04-16 01:43:57,911]
+2012-04-16 01:44:16,206 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:44:16,206 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:44:16,315 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:44:16,315 [14] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:44:19,501 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:44:19,501 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:44:19,502 [14] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:44:19,502 [14] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:44:19,503 [14] DEBUG (HttpDaemon) Start of client data:
+2012-04-16 01:44:19,503 [14] DEBUG (HttpDaemon) scroll=2
+2012-04-16 01:44:19,503 [14] DEBUG (HttpDaemon) End of client data:
+2012-04-16 01:44:19,503 [14] DEBUG (HttpDaemon) s=scroll=2
+2012-04-16 01:44:19,503 [14] DEBUG (HttpDaemon) Replaceed s=2
+2012-04-16 01:44:19,578 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:44:19,578 [14] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:44:26,845 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:44:26,845 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:44:26,847 [14] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:44:26,847 [14] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:44:26,847 [14] DEBUG (HttpDaemon) Start of client data:
+2012-04-16 01:44:26,848 [14] DEBUG (HttpDaemon) scroll=4
+2012-04-16 01:44:26,848 [14] DEBUG (HttpDaemon) End of client data:
+2012-04-16 01:44:26,848 [14] DEBUG (HttpDaemon) s=scroll=4
+2012-04-16 01:44:26,848 [14] DEBUG (HttpDaemon) Replaceed s=4
+2012-04-16 01:44:26,933 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:44:26,933 [14] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:44:29,118 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:44:29,118 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:44:29,119 [14] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:44:29,119 [14] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:44:29,119 [14] DEBUG (HttpDaemon) Start of client data:
+2012-04-16 01:44:29,119 [14] DEBUG (HttpDaemon) scroll=3
+2012-04-16 01:44:29,119 [14] DEBUG (HttpDaemon) End of client data:
+2012-04-16 01:44:29,119 [14] DEBUG (HttpDaemon) s=scroll=3
+2012-04-16 01:44:29,119 [14] DEBUG (HttpDaemon) Replaceed s=3
+2012-04-16 01:44:29,189 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:44:29,190 [14] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:44:30,990 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:44:30,990 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:44:30,992 [14] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:44:30,992 [14] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:44:30,992 [14] DEBUG (HttpDaemon) Start of client data:
+2012-04-16 01:44:30,992 [14] DEBUG (HttpDaemon) scroll=5
+2012-04-16 01:44:30,992 [14] DEBUG (HttpDaemon) End of client data:
+2012-04-16 01:44:30,992 [14] DEBUG (HttpDaemon) s=scroll=5
+2012-04-16 01:44:30,992 [14] DEBUG (HttpDaemon) Replaceed s=5
+2012-04-16 01:44:31,063 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:44:31,063 [14] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:44:33,718 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:44:33,718 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:44:33,719 [14] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:44:33,719 [14] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:44:33,719 [14] DEBUG (HttpDaemon) Start of client data:
+2012-04-16 01:44:33,719 [14] DEBUG (HttpDaemon) scroll=1
+2012-04-16 01:44:33,719 [14] DEBUG (HttpDaemon) End of client data:
+2012-04-16 01:44:33,719 [14] DEBUG (HttpDaemon) s=scroll=1
+2012-04-16 01:44:33,719 [14] DEBUG (HttpDaemon) Replaceed s=1
+2012-04-16 01:44:33,772 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:44:33,772 [14] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:45:11,575 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:45:11,575 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:45:11,576 [14] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:45:11,576 [14] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:45:11,576 [14] DEBUG (HttpDaemon) Start of client data:
+2012-04-16 01:45:11,576 [14] DEBUG (HttpDaemon) scroll=4
+2012-04-16 01:45:11,576 [14] DEBUG (HttpDaemon) End of client data:
+2012-04-16 01:45:11,576 [14] DEBUG (HttpDaemon) s=scroll=4
+2012-04-16 01:45:11,576 [14] DEBUG (HttpDaemon) Replaceed s=4
+2012-04-16 01:45:11,649 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:45:11,649 [14] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:45:14,357 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:45:14,357 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:45:14,358 [14] DEBUG (HttpDaemon) Client data content type application/x-www-form-urlencoded
+2012-04-16 01:45:14,358 [14] DEBUG (HttpDaemon) Client data content length 8
+2012-04-16 01:45:14,358 [14] DEBUG (HttpDaemon) Start of client data:
+2012-04-16 01:45:14,358 [14] DEBUG (HttpDaemon) scroll=6
+2012-04-16 01:45:14,358 [14] DEBUG (HttpDaemon) End of client data:
+2012-04-16 01:45:14,358 [14] DEBUG (HttpDaemon) s=scroll=6
+2012-04-16 01:45:14,358 [14] DEBUG (HttpDaemon) Replaceed s=6
+2012-04-16 01:45:14,462 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:45:14,462 [14] DEBUG (HttpDaemon) /favicon.ico

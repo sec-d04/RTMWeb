@@ -1,0 +1,9 @@
+C:\root\PG\WebToRTM\WebToRTM\bin\Release\WebToRTM.exe.config
+C:\root\PG\WebToRTM\WebToRTM\bin\Release\WebToRTM.exe
+C:\root\PG\WebToRTM\WebToRTM\bin\Release\WebToRTM.pdb
+C:\root\PG\WebToRTM\WebToRTM\obj\Release\ResolveAssemblyReference.cache
+C:\root\PG\WebToRTM\WebToRTM\obj\Release\WebToRTM.MainForm.resources
+C:\root\PG\WebToRTM\WebToRTM\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\root\PG\WebToRTM\WebToRTM\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\root\PG\WebToRTM\WebToRTM\obj\Release\WebToRTM.exe
+C:\root\PG\WebToRTM\WebToRTM\obj\Release\WebToRTM.pdb

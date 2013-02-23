@@ -1,0 +1,10 @@
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\bin\Debug\RtcProjectTemplate1.exe
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\bin\Debug\RtcProjectTemplate1.pdb
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\obj\Debug\RtcProjectTemplate1.exe
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\obj\Debug\RtcProjectTemplate1.pdb
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\bin\Debug\WebToRTM.exe
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\bin\Debug\WebToRTM.pdb
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\obj\Debug\WebToRTM.exe
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\obj\Debug\WebToRTM.pdb

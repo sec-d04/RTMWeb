@@ -1,0 +1,9 @@
+[logging start 2012-04-16 00:41:56,000]
+2012-04-16 00:42:17,768 [12] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 00:42:17,768 [12] DEBUG (HttpDaemon) /index.html
+2012-04-16 00:42:18,067 [12] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 00:42:18,067 [12] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 00:42:36,095 [12] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 00:42:36,095 [12] DEBUG (HttpDaemon) /dummy.html
+2012-04-16 00:42:36,235 [12] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 00:42:36,235 [12] DEBUG (HttpDaemon) /favicon.ico

@@ -1,0 +1,19 @@
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\bin\Debug\RtcProjectTemplate1.exe
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\bin\Debug\RtcProjectTemplate1.pdb
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\obj\Debug\RtcProjectTemplate1.exe
+C:\Users\akii_o\AppData\Local\Temporary Projects\RtcProjectTemplate1\obj\Debug\RtcProjectTemplate1.pdb
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\bin\Debug\WebToRTM.exe
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\bin\Debug\WebToRTM.pdb
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\obj\Debug\WebToRTM.exe
+C:\Users\akii_o\Desktop\WebToRTM\WebToRTM\obj\Debug\WebToRTM.pdb
+C:\root\PG\WebToRTM\WebToRTM\obj\Debug\WebToRTM.exe
+C:\root\PG\WebToRTM\WebToRTM\obj\Debug\WebToRTM.pdb
+C:\root\PG\WebToRTM\WebToRTM\obj\Debug\ResolveAssemblyReference.cache
+C:\root\PG\WebToRTM\WebToRTM\bin\Debug\WebToRTM.exe
+C:\root\PG\WebToRTM\WebToRTM\bin\Debug\WebToRTM.pdb
+C:\root\PG\WebToRTM\WebToRTM\bin\Debug\WebToRTM.exe.config
+C:\root\PG\WebToRTM\WebToRTM\obj\Debug\WebToRTM.MainForm.resources
+C:\root\PG\WebToRTM\WebToRTM\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\root\PG\WebToRTM\WebToRTM\obj\Debug\GenerateResource-ResGen.write.1.tlog

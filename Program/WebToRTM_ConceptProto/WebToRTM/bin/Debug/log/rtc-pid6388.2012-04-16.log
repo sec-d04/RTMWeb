@@ -1,0 +1,10 @@
+[logging start 2012-04-16 01:11:00,949]
+2012-04-16 01:11:15,020 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:11:15,020 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:11:15,353 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:11:15,353 [14] DEBUG (HttpDaemon) /favicon.ico
+2012-04-16 01:11:21,144 [14] DEBUG (HttpDaemon) HttpMethod POST
+2012-04-16 01:11:21,145 [14] DEBUG (HttpDaemon) /index.html
+2012-04-16 01:11:21,157 [14] DEBUG (HttpDaemon) buffer System.Byte[]
+2012-04-16 01:11:21,244 [14] DEBUG (HttpDaemon) HttpMethod GET
+2012-04-16 01:11:21,245 [14] DEBUG (HttpDaemon) /favicon.ico
