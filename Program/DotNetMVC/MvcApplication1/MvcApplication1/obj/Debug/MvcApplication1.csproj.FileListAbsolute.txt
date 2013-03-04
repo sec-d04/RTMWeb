@@ -1,0 +1,8 @@
+c:\documents and settings\10601\my documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+c:\documents and settings\10601\my documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+c:\documents and settings\10601\my documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\10601\my documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+c:\documents and settings\10601\my documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+c:\Documents and Settings\10601\My Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\CorbaNamingService.exe
+c:\Documents and Settings\10601\My Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\StartNamingService.exe
+c:\Documents and Settings\10601\My Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\StopNamingService.exe
