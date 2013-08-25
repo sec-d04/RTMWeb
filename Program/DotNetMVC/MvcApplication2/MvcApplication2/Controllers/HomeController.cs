@@ -15,11 +15,6 @@ namespace MvcApplication1.Controllers
         public ActionResult Index()
         {
 
-
-            LoggerFactory.Initialize("");
-            LoggerFactory.Initialize("", "log4net.confi");
-
-
                 ViewData["Message"] = "ASP.NET MVC へようこそ";
                 var manager = new Manager();
                 manager.AddTypes(typeof(CorbaProtocolManager));
