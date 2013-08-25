@@ -1,0 +1,3 @@
+[logging start 2013-07-21 11:16:37,600]
+2013-07-21 11:16:37,616 [5] DEBUG (HomeController) RTM logger test
+[logging end 2013-07-21 11:16:37,600]
